@@ -1,0 +1,97 @@
+PrCd,PrName,CatgID
+A02,Akhrot,D01
+A06,Anjeer,D01
+B02,Badam,D01
+B06,Beej,D01
+C17,Chilgoza,D01
+C20,CHUWARA,D01
+G01,Gajac,D01
+G05,GOORH,D01
+H02,Honey,D01
+K01,Kaju,D01
+K06,Khajoor,D01
+K08,KHOBANI,D01
+M06,Misri,D01
+M07,Mix Dry Fruit,D01
+P05,Peanut,D01
+P09,Pista,D01
+R02,Raiwari,D01
+T04,Till Lado,D01
+A01,Ajwain,K01
+A03,Alo Bukhara,K01
+A05,ANAR DANA,K01
+B03,Badian Phool,K01
+B04,Bari Ilachi,K01
+B08,Bread Crumps,K01
+C01,Calongy,K01
+C02,Chaar Magaz,K01
+C04,Chana,K01
+C09,Powder/Masala,K01
+C18,CHINA GRASS,K01
+C19,chinese salt,K01
+C21,COCO POWDER,K01
+C22,CORN FLOUR,K01
+D07,Dar cheeni,K01
+D08,Dhania,K01
+D09,Dal Mung,K01
+E01,ESSENCE,K01
+E04,FOOD COLOUR,K01
+E05,FRIED ONION,K01
+G02,Garam Masala,K01
+G03,MACROONI,K01
+G04,GOL MIRCH,K01
+G06,GOSHT GALANA POWDER,K01
+H01,Haldi Powder,K01
+I01,Ilachi Small,K01
+I02,Imli,K01
+J01,Jaifal,K01
+J02,Jwatri,K01
+K02,Kala Zeera,K01
+K03,Kala Namak,K01
+K05,Kali Mirch,K01
+K07,Khashkhash,K01
+K10,Khopra,K01
+K13,Kishmish,K01
+L01,Lal Mirch,K01
+L02,LONG,K01
+L03,Lobia,K01
+M02,Makai,K01
+M03,Meetha Soda,K01
+M04,Methi Dana,K01
+M05,Methi Pata,K01
+M08,Masala,K01
+M10,Monaka,K01
+M13,Muraba Ashrafi,K01
+P06,Peanut Basin,K01
+P07,Peanut Masala,K01
+R01,Rai Dana,K01
+R03,Safaid Zeera,K01
+S01,Sago Dana,K01
+S02,Sugar,K01
+S04,Saunf,K01
+S05,Slims,K01
+S07,Sounth,K01
+T01,Tatri,K01
+T02,Teez Pata,K01
+T03,Till,K01
+T05,Till Samosa Large,K01
+T07,Tea,K01
+W01,WHITE PEPPER,K01
+A07,Achar,K02
+B09,Barian,K02
+C03,Chalia,K02
+C07,CHANA MEETHA,K02
+C08,Chandi Warac,K02
+D01,Dahi Phulki,K02
+D02,Dal Chana,K02
+M01,Sweet,K02
+M09,Misc,K02
+M12,Multani Mitti,K02
+N01,Nimco,K02
+P01,PAN MASALA ,K02
+P02,Papad,K02
+P10,Pithkari,K02
+T06,Tukh Malunga,K02
+X00,None,K02
+X01,Not Known,K02
+X02,Utensils,K02

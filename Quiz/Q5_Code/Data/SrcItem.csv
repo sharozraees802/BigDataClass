@@ -1,0 +1,747 @@
+ItemID,ItemName,Unit,PrCd
+31751,akhrot 200 gm,gm,A02
+31752,akhrot 100 gm,gm,A02
+31753,akhrot 50 gm,gm,A02
+31798,akhrot 500 gm,gm,A02
+31863,akhrot 400 gm,gm,A02
+31966,akhrot 1 kg,kg,A02
+32427,chicki akhrot squar,,A02
+31749,anjeer 200 gm,gm,A06
+31750,anjeer 100 gm,gm,A06
+31797,anjeer 1 kg,kg,A06
+31820,anjeer 50 gm,gm,A06
+31834,anjeer 500gm,gm,A06
+31921,anjeer 1000 gm,gm,A06
+32181,anjeer 1 kg,kg,A06
+31736,badam 16 gm,gm,B02
+31737,badam 100 gm,gm,B02
+31738,badam 50gm,gm,B02
+31778,badam 200 gm,gm,B02
+31782,badam 400 gm,gm,B02
+31803,salted badam 50 gm,gm,B02
+31825,asli badam,,B02
+31838,badam 500 gm,gm,B02
+31870,salted badam 100 gm,gm,B02
+31871,asli badam bottle ,,B02
+31890,salted badam 200 gm,gm,B02
+31897,badam usa 100 gm,gm,B02
+31902,asli badam 8 pc,pcs,B02
+31932,badam 1 kg,kg,B02
+31958,salted badam 1 kg,kg,B02
+31960,badam usa-1 kg 1,kg,B02
+31963,badam australian 1 kg,kg,B02
+32090,badam 1 kg,kg,B02
+32179,badam 150 gm,gm,B02
+32280,badam usa    1 kg,kg,B02
+32345,chicki badam glass box 1 pc,,B02
+32380,chicki badam box,,B02
+32391,chicki badam 1 pc,pcs,B02
+32416,chicki badam 100 gm,gm,B02
+31747,beej lamba 50 gm,gm,B06
+31748,beej gol 150 gm,gm,B06
+31833,beej gol 100 gm,gm,B06
+31928,beej lamba 100 gm,gm,B06
+31969,beej lamba 1 kg,kg,B06
+32026,beej gol   1 kg,kg,B06
+31899,chilgoza 90 gm,gm,C17
+31923,chilgoza 45 gm,gm,C17
+31924,chilgoza 150 gm,gm,C17
+31965,chilgoza gold 1 kg,kg,C17
+32433,chilgoza star gold 1 kg,kg,C17
+32451,chilgoza 400 gm,gm,C17
+31706,chuwara 100 gm,gm,C20
+32012,chuwara 1 kg,kg,C20
+32164,chuwara 1000 gm,gm,C20
+32324,chuwara 200 gm,gm,C20
+31725,gajac 200 gm,gm,G01
+31917,gajac 100 gm,gm,G01
+31971,gajak 1 kg,kg,G01
+31660,goorh 200 gm,gm,G05
+32028,goorh 1 kg,kg,G05
+32078,goorh 400 gm,gm,G05
+32061,honey 1 kg,kg,H02
+32083,hony with dry firut 370,,H02
+31739,kaju sada 200 gm ,gm,K01
+31740,kaju sada 100 gm,gm,K01
+31741,kaju sada 50 gm,gm,K01
+31742,kaju fry 200 gm,gm,K01
+31743,kaju fry 100gm,gm,K01
+31744,kaju fry 50 gm,gm,K01
+31795,kaju sada 500 gm ,gm,K01
+31796,kaju fry 500 gm,gm,K01
+31840,kaju sada 400 gm,gm,K01
+31862,kaju fry 400gm,gm,K01
+31961,kaju sada-240 1 kg,kg,K01
+31964,kaju fry   1 kg,kg,K01
+32174,kaju sada 150 gm,gm,K01
+32175,kaju fry 150 gm,gm,K01
+32273,kaju sada-320 1 kg,kg,K01
+32344,chicki kaju glass box 1 pc,,K01
+32381,chicki kaju box,,K01
+32392,chicki kaju 1 pc,pcs,K01
+32415,chicki kaju 100 gm ,gm,K01
+32420,kaju sada 1 kg,kg,K01
+31716,khajoor 250 gm,gm,K06
+31717,khajoor blue box 500 gm,gm,K06
+31842,khajoor 1 kg,kg,K06
+31849,khajoor badam ,,K06
+31896,khajoor badam 200gm,gm,K06
+31898,khajoor bag 500 gm,gm,K06
+31952,khajoor ajwaha 100 gm,gm,K06
+31953,khajoor makroom 100 gm,gm,K06
+31954,khajoor qalmi 100 gm,gm,K06
+31956,khajoor amber 100 gm,gm,K06
+31957,khajoor amber 200 gm,gm,K06
+31985,khajoor ajwaha 200 gm,gm,K06
+31986,khajoor qalmi 200 gm,gm,K06
+31987,khajoor makroom 200 gm,gm,K06
+32121,khajoor 100gm,gm,K06
+32209,ajwa dates 200 gm,gm,K06
+32210,mabrum dates 200 gm,gm,K06
+32211,suferi dates 200 gm,gm,K06
+32212,qalmi dates 200 gm,gm,K06
+32226,khajoor ajwah 1 kg,kg,K06
+32227,khajoor makroom 1 kg,kg,K06
+32228,khajoor qalmi 1 kg,kg,K06
+32229,khajoor amber 1 kg,kg,K06
+32230,khajoor suferi 1 kg,kg,K06
+32234,khajoor suafri ,,K06
+32235,khajoor,,K06
+32236,khajoor irani  box 400gm,gm,K06
+32243,khajoor sanober plastic pack 200gm,gm,K06
+32249,khajoor chailgoza plastic pack 200 gm,gm,K06
+32250,khajoor box 150gm,gm,K06
+32251,khajoor sohana bag 400gm,gm,K06
+32252,khajoor sohana box 200gm,gm,K06
+32253,khajoor sohana 250gm,gm,K06
+32254,khajoor chailgoza 400gm,gm,K06
+32255,khajoor irani box 200gm,gm,K06
+32256,khajoor chailgoza box 200gm,gm,K06
+32259,khajoor sohana plastic box 200gm,gm,K06
+32260,khajoor 1kg,kg,K06
+32395,ajwa dates 1 kg,kg,K06
+31712,khubani goll 100 gm,gm,K08
+31713,khubani goll 200 gm,gm,K08
+31714,khubani chamra 1 kg,kg,K08
+31715,khubani chamra 200 gm,gm,K08
+31792,khubani goll 500 gm,gm,K08
+31808,khobani gol 500 gm,gm,K08
+31809,khobani chamra 500 gm,gm,K08
+31811,khobani gol 600 gm,gm,K08
+31813,khobani gol 100 gm,gm,K08
+31824,khobani chamra 200 gm,gm,K08
+31828,khobani chamra 50 gm,gm,K08
+31829,khobani gol 50 gm,gm,K08
+31837,khobani chamra 600 gm,gm,K08
+31869,khobani chamra 100 gm,gm,K08
+31875,khobani gol 200 gm,gm,K08
+31922,khobani chamra 1 kg,kg,K08
+31925,khubani goll 50 gm,gm,K08
+31970,khubani gol  1 kg,kg,K08
+32029,khobani gol  1 kg,kg,K08
+32296,khobani chamra 400 gm,gm,K08
+32308,khobani gol p.b 200 gm,gm,K08
+32309,khobani chamra p.b 200 gm,gm,K08
+31692,misri 100 gm,gm,M06
+32048,misri 1 kg,kg,M06
+31775,mix dry fruit 200 gm,gm,M07
+31776,mix dry fruit 100 gm,gm,M07
+31777,mix dry fruit 50 gm,gm,M07
+31807,mix fruit 500 gm,gm,M07
+31841,mix fruit 600 gm,gm,M07
+31992,mix dry fruit 1 kg,kg,M07
+32071,mix dry fruit 400 gm,gm,M07
+32178,mix dry fruit 150 gm,gm,M07
+32385,chicki mix large 1 pc,,M07
+32386,chicki mix small 1 pc,,M07
+31718,chicki peanut 1 pc,pcs,P05
+31720,chicki peanut 200 gm,gm,P05
+31758,peanut 200 gm,gm,P05
+31759,peanut 40 gm,gm,P05
+31799,peanut 500 gm,gm,P05
+31831,peanut 80 gm,gm,P05
+31835,chicki peanut 600 gm,gm,P05
+31864,peanut 600 gm,gm,P05
+31929,chicki peanut 100 gm,gm,P05
+31944,chicki peanut 1 kg,kg,P05
+31967,peanut sada 1 kg,kg,P05
+32089,chicki peanut 250 gm,gm,P05
+32331,chicki peanut small g.b 1 pc,,P05
+32334,chicki peanut large box 1 pc,,P05
+32369,chicki peanut bag,,P05
+32384,chicki peanut bottel,,P05
+32425,chicki peanut box,,P05
+31728,pista 12 gm,gm,P09
+31729,pista 24 gm,gm,P09
+31730,pista 50 gm,gm,P09
+31731,pista 100 gm,gm,P09
+31732,pista 200 gm,gm,P09
+31733,salted pista 50 gm,gm,P09
+31734,salted pista 100 gm,gm,P09
+31735,salted pista 200 gm,gm,P09
+31779,pista 600 gm,gm,P09
+31780,pista sada-small 1 kg,kg,P09
+31794,salted pista 500 gm,gm,P09
+31839,salted pista 400 gm,gm,P09
+31959,salted pista 1kg,kg,P09
+32284,pista sada- jambo 1 kg,kg,P09
+32428,chicki pista squar ,,P09
+32449,chicki pista box,,P09
+32452,chicki pista 1 pc,,P09
+31723,raiwari 70 gm,gm,R02
+31724,raiwari 200 gm,gm,R02
+31926,raiwari 100 gm,gm,R02
+32293,raiwari 400 gm,gm,R02
+32299,raiwri 1 kg,kg,R02
+32364,raiwari small box,,R02
+31726,till lado large,,T04
+31727,till lado 6 pcs small,pcs,T04
+31859,till lado 12 pc,pc,T04
+31911,till lado 6 pc,pc,T04
+31980,till ladu 1 pc,pc,T04
+31981,till ladu 15 pc,pc,T04
+31982,till ladu 6 pc,pc,T04
+32131,till lado large 1 pc,pc,T04
+32132,till lado small 1 pc,pc,T04
+32297,till lado glass box 16 pc,pc,T04
+32353,till lado large bag,,T04
+32368,till lado small bag,,T04
+32378,till lado jar,,T04
+32402,till lado large jar,,T04
+32418,till lado family jar,,T04
+31674,ajwaine 40 gm,gm,A01
+31882,ajwain 100 gm,gm,A01
+32004,ajwain 1 kg,kg,A01
+31677,alo bukhara 30 gm,gm,A03
+31815,alo bukhara 100 gm,gm,A03
+31950,alo bukhara chatni 200 gm,gm,A03
+32000,alo bukhara 1 kg,kg,A03
+32329,alo bukhara 500 gm,gm,A03
+31691,anar dana 30gm,gm,A05
+31894,anar dana 100 gm,gm,A05
+32005,anar dana 1 kg,kg,A05
+31801,badian phool 24 gm,gm,B03
+32010,badian phool 1 kg,kg,B03
+32093,badian phool 50 gm,gm,B03
+32224,badiian phool 500 gm,gm,B03
+31645,bari ilachi 16 gm,gm,B04
+31891,bari ilachi 50 gm,gm,B04
+31927,bari ilachi 10 gm,gm,B04
+31997,bari illachi 1 kg,kg,B04
+32102,bari illaichi 25 gm,gm,B04
+31700,bread crums 200 gm,gm,B08
+32104,bread crums 1 kg,kg,B08
+32242,bread crumps 400gm,gm,B08
+32457,bread crums 500 gm,gm,B08
+31679,calongy 40 gm,gm,C01
+31939,calongy 100 gm,gm,C01
+32006,calongy 1 kg,kg,C01
+31886,chaar magaz 100gm,gm,C02
+31903,chaar mugaz 200 gm,gm,C02
+31978,charmagaz 1 kg,kg,C02
+32239,chaar maghaz 50gm,gm,C02
+32287,chaar magaz 1 kg,kg,C02
+32434,magaz 1 kg,kg,C02
+32435,magaz 50 gm,gm,C02
+32443,magaz 100 gm,gm,C02
+32444,magaz 200 gm,gm,C02
+31669,chana 35 gm,gm,C04
+31670,chana 70gm,gm,C04
+31671,chana 20 gm,gm,C04
+31672,chana 170 gm,gm,C04
+31673,chana 200 gm,gm,C04
+31785,chana 1 kg,kg,C04
+31920,chana 1 kg,kg,C04
+32105,chana bhuna 200 gm,gm,C04
+32133,chana bhuna 100 gm,gm,C04
+32136,chana 1 kg,kg,C04
+32437,chana fry 50 gm,gm,C04
+32438,chana fry 100gm,gm,C04
+32454,chana fry   1 kg,kg,C04
+31931,chicken powder ,,C09
+32043,chat masala 1 kg,kg,C09
+32051,chat masala 26 gm,gm,C09
+32291,khatai powder 50gm,gm,C09
+32394,khatai powder 1 kg,kg,C09
+31880,china grass,,C18
+32367,china grass 1 packet,,C18
+31781,chinese salt 500 gm,gm,C19
+31900,chinese salt 100 gm,gm,C19
+31984,chinese salt 50 gm,gm,C19
+32011,chinese salt 1 kg,kg,C19
+32185,coco powder 100 gm,gm,C21
+32397,coco powder 1 kg,kg,C21
+32184,corn flour 100 gm,gm,C22
+32382,corn floor 1 kg,kg,C22
+32383,corn floor 500 gm,gm,C22
+31640,dar cheeni 30 gm,gm,D07
+31881,dar cheeni 50 gm,gm,D07
+31915,dashi chicken powder 100 gm,gm,D07
+31993,dar cheeni 1 kg,kg,D07
+32159,dar cheeni,,D07
+32363,dar cheeni powder 30gm,gm,D07
+32376,dar cheeni powder 1 kg,kg,D07
+31651,dhania 50 gm,gm,D08
+31652,dhania 100 gm,gm,D08
+31697,dhania powder 50 gm,gm,D08
+31698,dhania powder 100 gm,gm,D08
+31910,dhania powder 200 gm,gm,D08
+31914,dhania 200 gm,gm,D08
+32017,dhania 1 kg,kg,D08
+32018,dhania powder 1000 gm,gm,D08
+32073,dhania 1000 gm,gm,D08
+32153,dhania powder 1 kg,kg,D08
+32194,dhania sabit 1000 gm,gm,D08
+32208,dhania powder 500 gm,gm,D08
+31760,dal mung 100 gm,gm,D09
+31761,dal mung 50 gm,gm,D09
+31762,dal mung 200 gm,gm,D09
+31763,dal mung 250 gm,gm,D09
+32015,dal mung 1 kg,kg,D09
+32182,dal mung 150 gm,gm,D09
+31790,essence biryani,,E01
+32198,flavoured vermicelli 150 gm,gm,E01
+32220,flavoured vermicelli 200 gm,gm,E01
+32313,essence korma,,E01
+32314,essence vanilla ,,E01
+32315,essence pine apple,,E01
+32316,essence kewra,,E01
+32365,essence 1 dozen,,E01
+32461,essence rose,,E01
+31683,food color red,,E04
+31690,zarda rang 24 gm,gm,E04
+32056,food colour 1 pond,pond,E04
+32156,zarda rung 1 pond,pond,E04
+32167,zarda rung 500 gm,gm,E04
+32318,food color pink,,E04
+32319,food color yellow,,E04
+32320,food color green,,E04
+32323,food colour-zarda,,E04
+32339,zafran 1 pc,pc,E04
+32357,food colour orange ,,E04
+32358,food colour choclate,,E04
+32371,food colour mix,,E04
+32390,zarda rung 12 gm,gm,E04
+31802,fried onion 200 gm,gm,E05
+31818,fried onion 150 gm,gm,E05
+32019,fried onion 1 kg,kg,E05
+32077,fried onion 500 gm,gm,E05
+31636,garam masala sabit 50 gm ,gm,G02
+31637,garam masala powder 50 gm,gm,G02
+31638,garam masala powder 100 gm,gm,G02
+31784,garam masala sabut 24 gm ,gm,G02
+31788,garam masala sabit 100 gm,gm,G02
+31814,garam masala powder 25 gm,gm,G02
+31934,garam masala sabit 80 gm ,gm,G02
+32047,garam masala sabit 1 kg,kg,G02
+32049,garam masala powder 1 kg,kg,G02
+32262,garam masala powder 500gm,gm,G02
+32432,garam masala sabit 200 gm,gm,G02
+32193,ispagheti 1 kg,kg,G03
+32197,ispangol husk 200 gm,gm,G03
+32199,snell macrooni 180 gm,gm,G03
+32200,simple macrooni 100 gm,gm,G03
+32201,elbow macrooni 150 gm,gm,G03
+32202,mix macrooni 150 gm,gm,G03
+32203,ispagheti  200 gm,gm,G03
+32204,simple vermicelli 200 gm,gm,G03
+32205,brown macrooni 150 gm,gm,G03
+32206,yellow macrooni 150 gm,gm,G03
+32207,gol macrooni 150 gm,gm,G03
+32221,yellow macrooni 200 gm,gm,G03
+32222,elbow macrooni 200 gm,gm,G03
+32223,simple macrooni 200 gm,gm,G03
+32455,macrooni 1 kg,kg,G03
+31653,gol mirch 50 gm,gm,G04
+31654,gol mirch 200 gm,gm,G04
+31800,gol mirch 100 gm,gm,G04
+31955,gol mirch 80 gm,gm,G04
+32021,gol mirch 1 kg,kg,G04
+31906,gosht galana powder 50gm,gm,G06
+32373,ghost gilana powder,,G06
+31699,haldi powder 34 gm,gm,H01
+31816,haldi powder 200 gm,gm,H01
+31843,haldi powder 100 gm,gm,H01
+31933,haldi powder 1 kg,kg,H01
+31646,ilachi small 8 gm,gm,I01
+31647,ilachi small 25 gm,gm,I01
+31648,ilachi small 50 gm,gm,I01
+32240,ilachi small 1 kg,,I01
+32321,ilachi small 250 gm,gm,I01
+32387,ilachi small 500 gm,gm,I01
+31684,imli 100 gm,gm,I02
+31685,imli 200 gm,gm,I02
+32023,imli 1 kg,kg,I02
+31650,jaifal 10 gm,gm,J01
+31937,jaifal 10 pcs,pcs,J01
+32027,jaifal 1 kg,kg,J01
+31649,jwatri 8 gm,gm,J02
+32003,jwatri 1 kg,kg,J02
+32100,jwatri 25 gm,gm,J02
+31644,kala zeera 20 gm,gm,K02
+31996,kala zeera 1 kg,kg,K02
+32134,kala zeera 50 gm,gm,K02
+31676,kala namak 100 gm,gm,K03
+32035,kala namak 1 kg,kg,K03
+31657,kali mirch 12 gm,gm,K05
+31658,kali mirch 50 gm,gm,K05
+31705,kali mirch 200 gm,gm,K05
+31812,kali mirch p 12 gm,gm,K05
+31892,kali mirch 100 gm,gm,K05
+31909,kali mirch 35 gm,gm,K05
+32001,kali mirch 1 kg,kg,K05
+32002,kali mirch powder 1 kg,kg,K05
+32079,black peeper box,,K05
+32097,kali mirch p 100 gm ,gm,K05
+32122,kali mirch p 50 gm,gm,K05
+32261,kali mirch p 200gm,gm,K05
+32447,kali mirch 500 gm,gm,K05
+31666,khashkhash 60 gm,gm,K07
+31938,khashkhash 100 gm,gm,K07
+32025,khashkhash 1 kg,kg,K07
+32161,khashkhash,,K07
+31703,khopra powder 30 gm,gm,K10
+31704,khopra katar 30 gm,gm,K10
+31806,khopra powder  100 gm,gm,K10
+31872,khopra sabit 100 gm,gm,K10
+31873,khopra katar 100 gm,gm,K10
+31907,khopra powder  200 gm,gm,K10
+32040,khopra powder 1 kg,kg,K10
+32041,khopra sabit 1 kg,kg,K10
+32070,khopra katar sabit 200 gm,gm,K10
+32139,khopra powder 1000 gm,gm,K10
+32189,khopra katar 500 gm,gm,K10
+32192,khopra sabit 1000 gm,gm,K10
+32429,chicki khopra 1pc,,K10
+31745,kishmish 500 gm,gm,K13
+31746,kishmish 100 gm,gm,K13
+31786,kishmish 30 gm,gm,K13
+31889,kishmish 200 gm,gm,K13
+31895,kishmish 50 gm,gm,K13
+31972,kishmish sundar khani 1 kg,kg,K13
+31973,kishmish gol  1 kg,kg,K13
+32140,kishmish 1000 gm,gm,K13
+32180,kishmish 150 gm,gm,K13
+32436,kishmish irani 1 kg,kg,K13
+31655,koti mirch 50gm,gm,L01
+31656,koti mirch 100 gm,gm,L01
+31694,lal mirch powder 50gm,gm,L01
+31695,lal mirch powder 100 gm,gm,L01
+31696,lal mirch powder 200 gm,gm,L01
+31830,lal mirch powder 1kg,kg,L01
+31913,koti mirch 200 gm,gm,L01
+32042,koti mirch 1 kg,kg,L01
+32074,koti mirch 1000 gm,gm,L01
+32142,koti mirch 500 gm,gm,L01
+32143,lal mirch powder 500 gm,gm,L01
+32155,koti mirch 1 kg,kg,L01
+32347,lal mirch powder 400 gm,gm,L01
+31641,long 10 gm,gm,L02
+31936,long 50 gm,gm,L02
+31994,long 1 kg,kg,L02
+32128,long 25 gm,gm,L02
+31817,lobia white imported 500 gm,gm,L03
+31884,lobia white 500 gm,gm,L03
+31943,lobia white 1 kg,kg,L03
+31661,makai 100 gm,gm,M02
+32031,makai 1 kg,kg,M02
+32241,makai 200gm,gm,M02
+31688,meetha soda 100 gm,gm,M03
+31941,meetha soda 200 gm,gm,M03
+32034,meetha soda 1 kg,kg,M03
+32271,meetha soda  1 kg,kg,M03
+31667,methi dana 80 gm,gm,M04
+32037,methi dana 1 kg,kg,M04
+32135,methi dana 100 gm,gm,M04
+31668,methi pata 50 gm,gm,M05
+32038,methi pata 1 kg,kg,M05
+32169,papad hara masala 1 kg,kg,M08
+32187,mustard powder  100 gm,gm,M08
+32195,biryani masala 1 kg,kg,M08
+32196,qurama masala 1000 gm,gm,M08
+32310,papad hara masala 1 pc,pc,M08
+32360,mustard powder 1 kg,kg,M08
+32400,biryani masala 50 gm,gm,M08
+31942,monaka 100 gm,gm,M10
+31983,monaka 50 gm,gm,M10
+32190,monaka 25 gm,gm,M10
+32283,monaka 1 kg,kg,M10
+32458,monaka 200 gm,gm,M10
+31901,muraba ashrafi 100 gm,gm,M13
+32158,muraba ashrafi 1 kg,kg,M13
+32188,muraba ashrafi 250 gm,gm,M13
+32407,muraba ashrafi 200gm,gm,M13
+31826,peanut basin 50 gm,gm,P06
+31805,peanut masala 200 gm,gm,P07
+31819,peanut masala 40 gm,gm,P07
+31832,peanut masala 80 gm,gm,P07
+32177,peanut masala 1 kg,kg,P07
+31686,rai dana 70 gm,gm,R01
+31940,rai dana 100 gm,gm,R01
+32033,rai dana  1 kg,kg,R01
+32141,rai powder 100 gm,gm,R01
+32298,rai powder 1kg,kg,R01
+31642,safaid zeera 28gm,gm,R03
+31643,safaid zeera 100 gm,gm,R03
+31935,safaid zeera 80 gm,gm,R03
+31995,safaid zeera karachi 1 kg,kg,R03
+32160,safaid zeera powder 200 gm,gm,R03
+32166,safaid zeera powder 28 gm,gm,R03
+32213,safaid zeera india 1kg,kg,R03
+32214,safaid zeera powder 1kg,kg,R03
+32238,safed zeera powder 100 gm,gm,R03
+32325,safaid zeera 500 gm,gm,R03
+32430,safaid zeera 200 gm ,gm,R03
+31659,sago dana 80 gm,gm,S01
+31893,sago dana 100 gm,gm,S01
+31908,sago dana 200 gm,gm,S01
+32030,sago dana 1 kg,kg,S01
+31904,suger 1 kg,kg,S02
+31905,sugar 2000 kg,kg,S02
+31693,saunf 32 gm,gm,S04
+31846,sada sounf 130 gm,gm,S04
+31878,saunf 100 gm,gm,S04
+32046,saunf 1 kg,kg,S04
+32123,vip rosted saunf ,,S04
+32147,roasted saunf 1 kg,kg,S04
+32290,vip roasted saunf,,S04
+32448,saunf 250 gm,gm,S04
+31770,slims 100 gm,gm,S05
+31771,slims 50 gm,gm,S05
+31851,slims 200 gm,gm,S05
+32057,slims 1 kg,kg,S05
+31665,sounth 24 gm,gm,S07
+31990,sounth powder 50 gm,gm,S07
+31998,sounth 1 kg,kg,S07
+31999,sounth powder 1 kg,kg,S07
+32092,sounth 50 gm,gm,S07
+31687,tatri 20 gm,gm,T01
+32008,tatri 1 kg,kg,T01
+32445,tatri 50 gm,gm,T01
+31639,teez pata 30 gm,gm,T02
+32036,teez pata 1 kg ,kg,T02
+31689,till 40 gm,gm,T03
+31719,chicki till 1 pc,,T03
+31721,chicki till 200 gm,gm,T03
+31836,chicki till 600 gm,gm,T03
+31879,till 100 gm,gm,T03
+31930,chicki till 100 gm,gm,T03
+31979,chicki till 1 kg,kg,T03
+32032,till 1 kg,kg,T03
+32088,till 500gm,gm,T03
+32330,chicki till small p.b 1 pc,,T03
+32332,chicki till large p.b 1pc,,T03
+32361,chicki till 1 bag,,T03
+32401,chicki till bottel,,T03
+32426,chicki till box,,T03
+32410,till samosa large,,T05
+32412,till samosa jar,,T05
+32413,till samosa packet,,T05
+32419,till samosa family jar,,T05
+32446,till samosa 1 pc,pc,T05
+31876,sapana tea 500 gm,gm,T07
+31991,shelling pati,,T07
+32233,my tea 100 gm,gm,T07
+32237,my tea 500,,T07
+32257,my tea 200gm,gm,T07
+32269,my tea  1 kg,kg,T07
+32352,svass tea,,T07
+32362,test product,,T07
+32173,white pepper 12 gm,gm,W01
+32186,white pepper 40 gm,gm,W01
+32393,white pepper 1 kg,kg,W01
+31949,achar mix 200 gm,gm,A07
+31951,achar mix 12 pcs,pcs,A07
+32101,mix achar 12 pc,,A07
+31853,barian 200 gm,gm,B09
+32054,barian 1 kg,kg,B09
+31702,chalia 24 gm,gm,C03
+32062,chalia 1 kg ,kg,C03
+32118,gol chalia 1 kg ,kg,C03
+32119,gol chalia 500 gm,gm,C03
+32311,chana meetha 170 gm,gm,C07
+32322,chana meetha 70 gm,gm,C07
+31662,chandi warac 8 pcs,pcs,C08
+32225,chandi warc 1 packet,,C08
+31883,dahi phulki 200 gm,gm,D01
+32052,dahi phulki 1 kg,kg,D01
+32263,dahi phulki 100gm,gm,D01
+32272,daahi phulki 1 kg,kg,D01
+32275,dahi boondi 1 kg,kg,D01
+32276,dahi boondi 1kg,kg,D01
+31754,dal chana 100 gm,gm,D02
+31755,dal chana 50 gm,gm,D02
+31756,dal chana 200 gm,gm,D02
+31865,dal chana 250 gm,gm,D02
+32013,dal chana 1 kg,kg,D02
+31855,khopra paira,,M01
+31887,burfi toffi,,M01
+31711,mix candie small,,M09
+32168,meethas 1 kg,kg,M09
+32450,meethas 100 gm,gm,M09
+31918,multani mitti 150 gm,gm,M12
+32063,multani mitti 1 kg,kg,M12
+31764,dal moth 100 gm,gm,N01
+31765,mix nimco 100 gm,gm,N01
+31766,mix nimco 50 gm,gm,N01
+31767,mix nimco 200 gm,gm,N01
+31768,mix nimco 250 gm,gm,N01
+31772,barik sio 100 gm,gm,N01
+31773,barik sio 200 gm,gm,N01
+31774,barik sio 50 gm,gm,N01
+31821,dal moth 200 gm,gm,N01
+31822,chewara 200 gm,gm,N01
+31823,chewara 100 gm,gm,N01
+31827,dal moth 50 gm,gm,N01
+31844,chewara 50 gm,gm,N01
+31852,gathia 50 gm,gm,N01
+31857,dal seo 100 gm,gm,N01
+31866,barik sio 250 gm,gm,N01
+31868,gathia 100 gm,gm,N01
+31945,dal seo 50 gm,gm,N01
+31946,dal seo 200 gm,gm,N01
+31947,dal seo 250 gm,gm,N01
+31988,vip mix nimco 100 gm,gm,N01
+31989,vip mix nimco 50 gm,gm,N01
+32007,chewara 1 kg,kg,N01
+32014,dal moth 1 kg,kg,N01
+32016,dal seo  1 kg,kg,N01
+32020,gathia 1 kg,kg,N01
+32053,mix nimco 1 kg,kg,N01
+32059,barik sio    1 kg,kg,N01
+32082,vip mix nimco 200 gm,gm,N01
+32125,vip mix nimco 1 kg,kg,N01
+32335,mota seo 50 gm,gm,N01
+32370,mota seo  1 kg,kg,N01
+32372,mota seo 200 gm,gm,N01
+32379,mota seo 100 gm,gm,N01
+31707,pan masala small,,P01
+31708,pan masala medium,,P01
+31709,pan masala large,,P01
+31710,pan masala bottle,,P01
+31845,meethi sounf  200 gm,gm,P01
+31858,pan masala family,,P01
+32039,meethi sounf 1 kg,kg,P01
+32055,pan masala 1 kg,kg,P01
+32084,methi chali 1 kg,kg,P01
+32120,go go pan masala 1 kg ,kg,P01
+32124,sweet chalia gol,,P01
+32144,pan masala sp ,,P01
+32146,pan masala no # 2,,P01
+32148,pan masala pilo,,P01
+32149,go go pan masala,,P01
+32150,silver pan masala,,P01
+32152,pan masala sada,,P01
+32165,pan masala ,,P01
+32409,sweet chalia 1 kg,kg,P01
+31680,dal mash papad 200 gm,gm,P02
+31789,papad salanty-racket,,P02
+31791,sohana papad-alo masala,,P02
+31810,dal mash papad 1 kg,kg,P02
+31916,papri 200 gm,gm,P02
+31948,papri tasty 50 gm,gm,P02
+31975,mix papad 1 kg,kg,P02
+31976,italian papad 1 kg,kg,P02
+31977,sohana papad 1 kg,kg,P02
+32060,dal mash papad 100 gm,gm,P02
+32066,dal mung papad 1 pc,,P02
+32067,alo papad 1 kg,kg,P02
+32069,alo papad small,,P02
+32081,papari testy 100 gm,gm,P02
+32268,papri gold 150gm,gm,P02
+32270,papri tasty 100gm,gm,P02
+32277,papri 1 kg,kg,P02
+32333,sohana papad-chicken,,P02
+32350,mix papad large,,P02
+32351,alo papad large,,P02
+32388,papad salanty-colour,,P02
+32389,papad salanty-white,,P02
+32405,mix papad,,P02
+32421,papad bale-white,,P02
+32422,papad bale-colour,,P02
+32424,papad makai,,P02
+31701,pithkari 100 gm,gm,P10
+32045,pithkari 1 kg ,kg,P10
+31783,tukh malunga 20 gm,gm,T06
+31919,tukh malunga 100 gm,gm,T06
+32009,tuk malunga 1 kg,kg,T06
+32317,tukh malunga 50gm,gm,T06
+31722,none,,X00
+31757,none,,X00
+31769,none,,X00
+31787,none,,X00
+31793,none,,X00
+31804,none,,X00
+31850,none,,X00
+31860,none,,X00
+31861,none,,X00
+31867,none,,X00
+31877,none,,X00
+31885,none,,X00
+31888,none,,X00
+31912,none,,X00
+31968,none,,X00
+31974,none,,X00
+32022,none,,X00
+32044,none,,X00
+32058,none,,X00
+32072,none,,X00
+32075,none,,X00
+32076,none,,X00
+32080,none,,X00
+32087,none,,X00
+32096,none,,X00
+32098,none,,X00
+32103,none,,X00
+32106,none,,X00
+32129,none,,X00
+32138,none,,X00
+32154,none,,X00
+32157,none,,X00
+32162,none,,X00
+32163,none,,X00
+32176,none,,X00
+32191,none,,X00
+31663,ispagol husk 20 gm,gm,X01
+31664,ispagol husk 50 gm,gm,X01
+31675,kalaf box 150 gm,gm,X01
+31681,phenyle ball 100 gm,gm,X01
+31682,phenyle ball 200 gm,gm,X01
+31854,thanda gola,,X01
+31874,gift pack ,,X01
+32024,ispagol husk 1 kg,kg,X01
+32064,gandhak 1 kg,kg,X01
+32065,gandhak 250 gm,gm,X01
+32094,kalaf box large 300 gm,gm,X01
+32095,kalaf box   1 kg,kg,X01
+32130,ispaghol husk 80 gm,gm,X01
+32151,lal pari,,X01
+32183,backing powder 100 gm,gm,X01
+32278,dry fruit bag,,X01
+32306,handle bag shopper,,X01
+32375,fair,,X01
+32377,carton,,X01
+32396,backing powder 1 kg,kg,X01
+32431,boric acid 100 gm,gm,X01
+32453,boric acid 1 kg,kg,X01
+32050,phenyle 1 kg,kg,X02
+32216,sticker roll ,,X02
+32217,products sticker,,X02
+32218,sticker,,X02
+32219,white bag dry fruit,,X02
+32231,ribben wax,,X02
+32274,red bag dry fruit,,X02
+32294,nakul 1 kg,kg,X02
+32300,small glass boxes,,X02
+32301,large glass box,,X02
+32302,packing tray 50 gm,gm,X02
+32303,packing shopper 100 gm ,gm,X02
+32304,packing shopper 200 gm,gm,X02
+32305,packing red shopper,,X02
+32307,packing shopper 500 kg,kg,X02
+32399,plates 1 packet,,X02
+32403,jar large,,X02
+32404,jar small,,X02
+32411,chana jar,,X02
+32417,karhai,,X02
+32456,order book,,X02

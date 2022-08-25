@@ -1,0 +1,14 @@
+{"empno":7839,"ename":"KING","job":"PRESIDENT","mgr":0,"hiredate":{"$date":"2001-11-16T19:00:00.000Z"},"sal":5000,"comm":0,"deptno":10}
+{"empno":7698,"ename":"BLAKE","job":"MANAGER","mgr":7839,"hiredate":{"$date":"2001-04-30T19:00:00.000Z"},"sal":2850,"comm":0,"deptno":30}
+{"empno":7782,"ename":"CLARK","job":"MANAGER","mgr":7839,"hiredate":{"$date":"2001-06-08T19:00:00.000Z"},"sal":2450,"comm":0,"deptno":10}
+{"empno":7566,"ename":"JONES","job":"MANAGER","mgr":7839,"hiredate":{"$date":"2001-04-01T19:00:00.000Z"},"sal":2975,"comm":0,"deptno":20}
+{"empno":7654,"ename":"MARTIN","job":"SALESMAN","mgr":7698,"hiredate":{"$date":"2001-09-27T19:00:00.000Z"},"sal":1250,"comm":1400,"deptno":30}
+{"empno":7499,"ename":"ALLEN","job":"SALESMAN","mgr":7698,"hiredate":{"$date":"2001-02-19T19:00:00.000Z"},"sal":1600,"comm":300,"deptno":30}
+{"empno":7844,"ename":"TURNER","job":"SALESMAN","mgr":7698,"hiredate":{"$date":"2001-09-07T19:00:00.000Z"},"sal":1500,"comm":0,"deptno":30}
+{"empno":7900,"ename":"JAMES","job":"CLERK","mgr":7698,"hiredate":{"$date":"2001-12-02T19:00:00.000Z"},"sal":950,"comm":0,"deptno":30}
+{"empno":7521,"ename":"WARD","job":"SALESMAN","mgr":7698,"hiredate":{"$date":"2001-02-21T19:00:00.000Z"},"sal":1250,"comm":500,"deptno":30}
+{"empno":7902,"ename":"FORD","job":"ANALYST","mgr":7566,"hiredate":{"$date":"2001-02-02T19:00:00.000Z"},"sal":3000,"comm":0,"deptno":20}
+{"empno":7369,"ename":"SMITH","job":"CLERK","mgr":7902,"hiredate":{"$date":"2000-12-16T19:00:00.000Z"},"sal":800,"comm":0,"deptno":20}
+{"empno":7788,"ename":"SCOTT","job":"ANALYST","mgr":7566,"hiredate":{"$date":"2007-04-18T19:00:00.000Z"},"sal":3000,"comm":0,"deptno":20}
+{"empno":7876,"ename":"ADAMS","job":"CLERK","mgr":7788,"hiredate":{"$date":"2007-05-22T19:00:00.000Z"},"sal":1100,"comm":0,"deptno":20}
+{"empno":7934,"ename":"MILLER","job":"CLERK","mgr":7782,"hiredate":{"$date":"2002-01-22T19:00:00.000Z"},"sal":1300,"comm":0,"deptno":10}
