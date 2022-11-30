@@ -1,0 +1,16 @@
+download javajdk
+google and search
+java jdk 8 download google drive
+
+
+
+system variable:
+
+variable: JAVA_HOME ,Value: java/jdk  path add.
+
+Variable: PYSPARK_PYTHON ,Value: python
+
+
+edit Path
+
+add java/jdk/bin
